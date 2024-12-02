@@ -1,0 +1,7 @@
+script_change:
+- changed-files:
+  - any-glob-to-any-file: '**/*.js'
+
+dom_changue:
+- changed-files:
+  - any-glob-to-any-file: '**/*.html'
